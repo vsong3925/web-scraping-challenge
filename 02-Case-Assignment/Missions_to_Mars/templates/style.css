@@ -1,0 +1,27 @@
+body {
+    background-color: darkgray;
+}
+
+.nav-link {
+    margin: 20px;
+    color: gray;
+
+}
+
+h1 {
+    margin-top: 40px;
+}
+
+h3 {
+    margin: 20px;
+}
+
+h4 {
+    margin: 10px;
+    float: center;
+}
+
+.card {
+    float: center;
+    boarder: 0px;
+}
